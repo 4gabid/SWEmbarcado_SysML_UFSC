@@ -1,1 +1,293 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T23:29:09.166Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="1WqTs1dT-rrnRjdf-1gt" version="15.0.3" type="github"><diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">7Vtdk6MoFP01eZwuQfHjcTrbPfuyVVvVVbszj0RJYo1KipBJZ3/9YsSooMZ2NLGT5KXlgoj3nANXuD0z5/H7N4Y3679oQKIZNIL3mfnHDEJgGa74k1oOmcWxpGHFwkA2Kgxv4X9EGg1p3YUB2VYackojHm6qRp8mCfF5xYYZo/tqsyWNqk/d4BXRDG8+jnTrv2HA19IKDKOo+JOEq7V8tItkxQL7P1eM7hL5vIQmJKuJcd6NbLpd44DuSybzZWbOGaU8u4rf5yRK3Zp7LLvvtaH2NGRGEt7lBtOFCw8sEAJgERhL54vs4ReOdtINcqD8kPtF9CAgEIXnNY8jYQPiUrzIJq3fcsz4G8c8rV+GUTSnEWXHG03j+Esbc0Z/klLNcilrjl4jQdFp5p20yqdx6MvrCC9I9Hxyc97T0dHisTThrzgOo5R4/xAW4ARLs2QZgLJcNzochatE2HzhQyIqn4OQCX6FNDVu6S6F8Fl3dO45wjh5L5mk478RGhPODqJJXmtKEhzyMsrK+4JteZN1iWe5DUt+r049F0CLC4l1R9yRhvtX8cq/Qn7Q8K9itF+HnLxtsJ/W7sVMUOUFZr70ObR0RizFz29nxEQ4MADe0KribeYTXQlvAGsAt8cA3H4AfmnAT+BeBHA/IHaAA9e2MHAw/mLqE3kg1jtZpIyv6YomOHoprGVcyXvIv5euf6SoPEGUFhMxtu9K+Ucn1EgSfE2X6nQEG5JkFomX20qTjnjnuEZkydtQFfM680mDVhwZfWC2IryhjZe1SX3ayg1GIix0Vo0xBlW281D22Mq2FGVD45rKtoZRtvHkoLK4y8oGFVk/oRsRttdB2PbQwj7eKpyDD6UGGxomfFvq+e/UUDDOdZW1BBkKZ7IeCwadhtaPVKB9vSDRgu7PEaqyVDiohVDOPTEqj/smsFZ4j7Vi7LXC8aYU9ucPfyA+HuIIXhNxdSJHvefxTzgfQ2wufIgM7C8NGzjBtEP3ptGWxDkXTsFhIqiporjdh3GEj1CckeYgm2oZnPlGKPg4jEMqzEMVgVmevnPm1W2dneL0QRWWy/sGJdbE0NYYyK3RnOazyYRA7mNB/OCC2Dhtdd8ZA1UB27p+R1sgobX0bDcAhkecwF5Y+cZY7yOPVJO3deAxBuSuArmrx0SjHXaok4931/O11sbsECO5k4mRfleu93tC+fsidqajYQB02O9IxE0BVWvQBa8WdDWM9hF0XXAFtozqtsQlgy6dADWz9j3LF+rybQpUJyBf+JDvxeWL3Ct+M6mj1z+alwzHREM/D7p2cfR6bHCHm1VKmldNlhcwUA1wjoVGQK792+fsYfHUJ98uZ3R1odLop769ATuzu/jJECtyhWZaRkE/NO0OaDpDo9nrDN9UZoJ8ZhjqDF+nTvs30vnMkCKxy5l4YleRxFLOYQG9WdXl3AiNwiqNNtpxonqIkb2IvKvg00fpiZTvA+gpuePn6OyNTef2b4YPJDrBxkQnNYVxejNoPz6jz7XmjZKsis6sP/eC8/Xyj3SgB8td7Jq6eDOZZjmKlw18+iPdnocyTP55FWp4V1BfLwFd3R2yW5H+PFt7jeFv57CyVzrShcJKU8lhR4ay3dAQVp7tyHSV+DR7W62jIbKUnduj2oNpk2SaeytMq/8I6v+lXBNxNpFxdKIhhWigL9GUjkxvKKKJYvHf3Vnz4r/nzZf/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-01T22:17:39.640Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="2Iyt-E5tL3dBgWo9VgzM" version="15.0.3" type="github">
+  <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
+    <mxGraphModel dx="4429" dy="4040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2FUNfznmdYpebAtP3zaA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="382b91b5511bd0f7-6" target="2FUNfznmdYpebAtP3zaA-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="-964" />
+              <mxPoint x="575" y="-774" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-23" value="Usuário desligou&amp;nbsp;&lt;br&gt;o ar condicionado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-22">
+          <mxGeometry x="-0.3374" y="2" relative="1" as="geometry">
+            <mxPoint x="-7" y="78" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="382b91b5511bd0f7-6" value="Compressor Ligado" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="705" y="-994" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.175;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="382b91b5511bd0f7-7" target="2FUNfznmdYpebAtP3zaA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="382b91b5511bd0f7-7" value="Controlando a mistura de ar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1485" y="-1084" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-147" value="RPM=0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2a3bc250acf0617d-7" target="2FUNfznmdYpebAtP3zaA-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2a3bc250acf0617d-7" value="Veículo Ligado" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-1534" width="1680" height="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="2a3bc250acf0617d-7" source="382b91b5511bd0f7-5" target="24f968d109e7d6b4-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508.71" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-87" value="Direcionadores na posição&lt;br&gt;escolhida" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-86">
+          <mxGeometry x="0.1679" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="382b91b5511bd0f7-5" value="Checando posição de direcionadores" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="2a3bc250acf0617d-7" vertex="1">
+          <mxGeometry x="448.71" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="2a3bc250acf0617d-7" source="2FUNfznmdYpebAtP3zaA-2" target="382b91b5511bd0f7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-83" value="Ajuste dos direcionadores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-82">
+          <mxGeometry x="-0.0846" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-2" value="Ajustando direcioandores de ar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="2a3bc250acf0617d-7">
+          <mxGeometry x="908.71" y="1100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="2a3bc250acf0617d-7" source="382b91b5511bd0f7-5" target="2FUNfznmdYpebAtP3zaA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-69" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-67">
+          <mxGeometry x="0.1176" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-73" value="In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-67">
+          <mxGeometry x="0.1078" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-77" value="Direcionadores de ar em posição diferente da escolhida" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-67">
+          <mxGeometry x="0.1176" relative="1" as="geometry">
+            <mxPoint x="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2a3bc250acf0617d-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" parent="2a3bc250acf0617d-7" vertex="1">
+          <mxGeometry x="90" y="940" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24f968d109e7d6b4-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="2a3bc250acf0617d-7" vertex="1">
+          <mxGeometry x="493.71" y="1370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-43" value="Ventilador modo lento" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="2a3bc250acf0617d-7">
+          <mxGeometry x="770" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-143" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="2a3bc250acf0617d-7">
+          <mxGeometry x="1450" y="950" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-148" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="2a3bc250acf0617d-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="493.71000000000004" y="586" as="sourcePoint" />
+            <mxPoint x="493.71000000000004" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="-1084" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-89" value="Umidade menor que 80% &lt;br&gt;|| Usuário desligou o AC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-88">
+          <mxGeometry x="-0.272" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-4" value="Recirculador aberto" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="845" y="-994" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-6" value="Recirculador desativado" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="845" y="-1154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-8" target="382b91b5511bd0f7-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1155" y="-1114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-13" value="Temp Cabine atingiu valor&amp;nbsp; inferior ao desejado&lt;br&gt;&amp;amp;&amp;amp; Temperatura externa ultrapassou 22ºC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-9">
+          <mxGeometry x="-0.725" relative="1" as="geometry">
+            <mxPoint x="109" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-8" target="382b91b5511bd0f7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-19" value="Temp Cabine atingiu valor superior ao desejado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-10">
+          <mxGeometry x="-0.3109" relative="1" as="geometry">
+            <mxPoint x="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-8" target="2FUNfznmdYpebAtP3zaA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="-1124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-51" value="Temp cabine é muito superior&amp;nbsp;&lt;br&gt;a temperatura desejada&lt;br&gt;&amp;amp;&amp;amp; Luminosidade alta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-50">
+          <mxGeometry x="0.106" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-8" value="Lendo Sensores" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-1244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-21" value="Compressor Desligado" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-804" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-24" value="Usuário desligou&amp;nbsp;&lt;br&gt;o ar condicionado&lt;br&gt;&amp;nbsp;|| Temperatura externa inferior a 22º" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1584.9999999999998" y="-803.9966666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" target="382b91b5511bd0f7-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1763" y="-724" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-25" value="Misturador Desligado" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="-724" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=13;verticalAlign=top;fillColor=#050505;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-949" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-33" value="Umidade passou dos 80%" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;fontSize=13;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.25;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="2FUNfznmdYpebAtP3zaA-32" parent="1" source="2FUNfznmdYpebAtP3zaA-21">
+          <mxGeometry x="0.5658" y="10" relative="1" as="geometry">
+            <mxPoint x="745" y="-774" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="858" y="-774" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-35" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="-848" as="sourcePoint" />
+            <mxPoint x="795" y="-934" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-44" value="Ventilador modo rápido" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="-924" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1301" y="-889" as="sourcePoint" />
+            <mxPoint x="1290" y="-694" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1321" y="-889" />
+              <mxPoint x="1321" y="-694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-47" value="Diferença de temperatura&lt;br&gt;passou a ser inferior a 5º" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-46">
+          <mxGeometry x="0.2706" relative="1" as="geometry">
+            <mxPoint y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-52" target="2FUNfznmdYpebAtP3zaA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-57" value="Temp_Saída &amp;lt; Temp_Target" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;labelBackgroundColor=#FFFFCC;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-54">
+          <mxGeometry x="-0.0909" y="3" relative="1" as="geometry">
+            <mxPoint x="11" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-52" value="Ar frio circulando" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="-1014" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-53" target="2FUNfznmdYpebAtP3zaA-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-62" value="Temp_Saída&amp;gt;Temp_Saída" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;labelBackgroundColor=#FFFFCC;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-59">
+          <mxGeometry x="-0.2847" y="2" relative="1" as="geometry">
+            <mxPoint x="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-53" value="Ar quente circulando" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="-1014" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-66" value="Temp Cabine atingiu valor&amp;nbsp; inferior ao desejado&lt;br&gt;&amp;amp;&amp;amp; Temperatura externa ultrapassou 22ºC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1795.003333333334" y="-834" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-8" target="2FUNfznmdYpebAtP3zaA-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="-1264" />
+              <mxPoint x="1270" y="-1264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-102" target="2FUNfznmdYpebAtP3zaA-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-145" value="Usuário desligou o ar condicionado&lt;br&gt;via menu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-144">
+          <mxGeometry x="-0.0505" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-102" value="Controle de temperatura ativado" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="541" y="-1324" width="1400" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-117" target="2FUNfznmdYpebAtP3zaA-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-119" value="Função Ar Condicionado ligado selecionada no menu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-118">
+          <mxGeometry x="-0.5495" y="-2" relative="1" as="geometry">
+            <mxPoint x="120" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-117" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="775" y="-1394" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-43" target="2FUNfznmdYpebAtP3zaA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1161" y="-694" as="sourcePoint" />
+            <mxPoint x="1161" y="-894" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1125" y="-694" />
+              <mxPoint x="1125" y="-894" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-49" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Diferença&amp;nbsp; de temperatura&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;passou a ser superior a 5º&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-45">
+          <mxGeometry x="-0.0703" y="1" relative="1" as="geometry">
+            <mxPoint x="11" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-123" value="Controle de temperatura ativado" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-524" width="1400" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="2a3bc250acf0617d-3" target="2FUNfznmdYpebAtP3zaA-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="-584" />
+              <mxPoint x="1215" y="-584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-98" value="Usuário alterou a posição da&amp;nbsp;&lt;br&gt;saída de ar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="2FUNfznmdYpebAtP3zaA-97">
+          <mxGeometry x="0.2678" y="-4" relative="1" as="geometry">
+            <mxPoint x="-119" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-146" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-152" value="RPM&amp;gt;0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="2FUNfznmdYpebAtP3zaA-151" target="2a3bc250acf0617d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-151" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="-1654" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FUNfznmdYpebAtP3zaA-153" value="Diagrama de Estados - Ar Condicionado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1604" width="520" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
